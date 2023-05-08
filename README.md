@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Some of my projects are available at [https://saif-mohammad.vercel.app/](https://saif-mohammad.vercel.app/)
+- 👨‍💻 Some of my projects are available at ([https://saif-mohammad.vercel.app/](https://portfolio-saif3.vercel.app/))
 
 - 💬 Ask me about **Vanilla JS**
 
