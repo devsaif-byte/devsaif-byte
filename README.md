@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saif</h1>
-<h3 align="center">A passionate frontend (React) developer from Dhaka</h3>
+<h3 align="center">A passionate frontend web development student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsaif-byte&label=Profile%20views&color=0e75b6&style=flat" alt="devsaif-byte" /> </p>
 
