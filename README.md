@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/saif-mohammad-9995801a2](https://www.linkedin.com/in/md-saif-bd/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[saif-mohammad-9995801a2](https://www.linkedin.com/in/md-saif-bd/)" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/saif-mohammad-9995801a2](https://www.linkedin.com/in/md-saif-bd/)" target="blank"><img align="center" src="<a href="[[https://linkedin.com/in/saif-mohammad-9995801a2](https://www.linkedin.com/in/md-saif-bd/)](https://www.linkedin.com/in/md-saif-bd/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[saif-mohammad-9995801a2](https://www.linkedin.com/in/md-saif-bd/)" height="30" width="40" /></a>" alt="[saif-mohammad-9995801a2](https://www.linkedin.com/in/md-saif-bd/)" height="30" width="40" /></a>
 <a href="https://fb.com/saifmohammad2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saifmohammad2020" height="30" width="40" /></a>
 </p>
 
